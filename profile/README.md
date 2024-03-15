@@ -7,4 +7,4 @@ Ces projets vous sont mis à disposition dans une volonté de partage, ils sont 
 
 - Discord: https://discord.playze.org/
 
-![Playze Family Banner](home_banner.png)
+![Playze Family Banner](/profile/home_banner.png)
